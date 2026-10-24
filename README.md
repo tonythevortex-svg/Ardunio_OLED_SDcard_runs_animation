@@ -1,4 +1,4 @@
-# ESP32 Retro Viewer — Eye / Text / Glitch
+# ESP32 Retro Viewer — animation / Text / Glitch effects
 
 ### An experimental screen-based artwork and spatial essay
 
